@@ -1,0 +1,365 @@
+Row_Number,Gender,Location,Time,Race,Time_Spent_Homeless,Method_Found,Eligible,Preffered_Acommodation,Accepted_Acommodation
+1,Female,Stechford,10AM,Other,Less than a month,Friend,1,1,1
+2,Male,Other,12PM,Indian,7-12 months,Referral,0,0,0
+3,Female,Perry Barr,10AM,White,Less than a month,Referral,1,0,0
+4,Male,Other,2PM,White,7-12 months,Themselves,0,1,0
+5,Male,Kings Norton,4PM,Pakistani,4-6 Months,Referral,1,1,1
+6,Male,Stechford,2PM,European,Less than a month,Friend,0,0,0
+7,Female,Digbeth,12PM,White,Less than a month,Online,1,1,1
+8,Male,Yardley,10AM,White,Less than a month,Friend,1,0,1
+9,Female,Balsall Heath,2PM,European,1-3 Months,Other,1,1,1
+10,Male,Balsall Heath,12PM,Bangladeshi,Less than a month,Themselves,0,1,0
+11,Male,Tyseley,4PM,European,Less than a month,Friend,0,0,0
+12,Male,Sparkbrook,10AM,Black,1-3 Months,Other,1,1,1
+13,Female,Bordesley Green,12PM,Pakistani,1-3 Months,Phone,1,0,0
+14,Male,Erdington,10AM,Pakistani,Less than a month,Referral,0,0,0
+15,Female,Kings Norton,2PM,European,7-12 months,Phone,1,1,1
+16,Male,Sparkhill,2PM,Pakistani,Less than a month,Referral,1,0,0
+17,Female,Sparkhill,10AM,Black,Less than a month,Referral,1,1,0
+18,Female,Other,12PM,White,Less than a month,Other,1,0,1
+19,Male,Digbeth,10AM,Bangladeshi,1-3 Months,Referral,1,0,1
+20,Female,Erdington,12PM,Indian,1-3 Months,Friend,1,1,1
+21,Female,Tyseley,4PM,White,Less than a month,Friend,0,1,0
+22,Male,Acocks Green,12PM,White,Less than a month,Phone,1,0,1
+23,Male,Balsall Heath,2PM,White,1-3 Months,Referral,1,1,1
+24,Female,Stechford,2PM,Pakistani,4-6 Months,Phone,1,0,0
+25,Male,Sparkhill,10AM,Black,1-3 Months,Friend,0,0,0
+26,Male,Erdington,12PM,White,4-6 Months,Friend,0,1,1
+27,Male,Small Heath,12PM,White,Less than a month,Online,1,0,1
+28,Female,Kings Norton,4PM,White,Less than a month,Referral,0,1,0
+29,Female,Balsall Heath,10AM,Pakistani,Less than a month,Referral,1,0,1
+30,Male,Erdington,12PM,Bangladeshi,4-6 Months,Referral,1,1,1
+31,Female,Erdington,10AM,Pakistani,1-3 Months,Other,1,1,1
+32,Male,Erdington,2PM,Pakistani,Less than a month,Referral,1,1,0
+33,Male,Small Heath,12PM,White,7-12 months,Referral,1,0,1
+34,Female,Sparkhill,10AM,European,Less than a month,Phone,1,0,0
+35,Female,Other,2PM,White,Less than a month,Friend,1,1,1
+36,Male,Digbeth,12PM,Bangladeshi,7-12 months,Friend,1,1,1
+37,Male,Tyseley,10AM,Pakistani,1-3 Months,Online,0,0,0
+38,Female,Kings Norton,4PM,European,Less than a month,Referral,1,0,1
+39,Male,Balsall Heath,10AM,Pakistani,Less than a month,Friend,1,0,1
+40,Male,Sparkbrook,10AM,Pakistani,1-3 Months,Friend,1,0,0
+41,Male,Balsall Heath,10AM,Other,Less than a month,Themselves,1,1,1
+42,Female,Perry Barr,4PM,European,Less than a month,Phone,1,0,0
+43,Female,Tyseley,2PM,Black,4-6 Months,Other,1,1,1
+44,Female,Acocks Green,12PM,Pakistani,4-6 Months,Phone,0,0,0
+45,Male,Bordesley Green,4PM,White,Less than a month,Themselves,1,0,1
+46,Male,Acocks Green,10AM,Bangladeshi,Less than a month,Other,1,0,0
+47,Male,Acocks Green,2PM,European,Less than a month,Phone,1,0,1
+48,Female,Small Heath,10AM,Other,4-6 Months,Friend,1,0,0
+49,Female,Erdington,10AM,Pakistani,Less than a month,Online,1,0,1
+50,Male,Sparkhill,10AM,European,Less than a month,Phone,1,1,1
+51,Male,Perry Barr,2PM,White,4-6 Months,Referral,0,1,0
+52,Male,Sutton Coldfield,2PM,White,4-6 Months,Phone,0,1,0
+53,Female,Digbeth,2PM,Bangladeshi,4-6 Months,Friend,1,1,1
+54,Female,Sparkbrook,10AM,European,1-3 Months,Phone,0,0,0
+55,Female,Sparkbrook,10AM,European,Less than a month,Phone,0,1,0
+56,Male,Small Heath,12PM,White,1-3 Months,Friend,1,1,1
+57,Male,Bordesley Green,10AM,Black,Less than a month,Referral,0,0,0
+58,Female,Erdington,2PM,White,4-6 Months,Referral,0,1,0
+59,Female,Bordesley Green,2PM,Pakistani,1-3 Months,Phone,1,0,0
+60,Male,Small Heath,2PM,Indian,1-3 Months,Referral,0,1,0
+61,Female,Erdington,4PM,Pakistani,Less than a month,Phone,1,0,0
+62,Male,Balsall Heath,10AM,Indian,Less than a month,Phone,1,0,1
+63,Female,Sparkbrook,12PM,Bangladeshi,1-3 Months,Online,1,1,1
+64,Male,Perry Barr,4PM,White,Less than a month,Online,1,0,0
+65,Male,Other,2PM,Other,7-12 months,Referral,1,1,1
+66,Female,Small Heath,12PM,White,Less than a month,Friend,1,0,0
+67,Female,Erdington,2PM,White,4-6 Months,Themselves,1,1,1
+68,Male,Balsall Heath,12PM,Pakistani,7-12 months,Referral,1,0,0
+69,Male,Perry Barr,2PM,Bangladeshi,1-3 Months,Phone,1,0,1
+70,Female,Sparkbrook,4PM,White,1-3 Months,Online,1,0,0
+71,Male,Kings Norton,4PM,European,4-6 Months,Phone,1,1,1
+72,Male,Tyseley,4PM,Indian,Less than a month,Referral,1,0,0
+73,Male,Digbeth,4PM,Pakistani,1-3 Months,Online,1,1,1
+74,Female,Digbeth,12PM,European,Less than a month,Themselves,1,0,0
+75,Female,Yardley,2PM,White,7-12 months,Friend,1,0,0
+76,Female,Tyseley,2PM,Pakistani,4-6 Months,Referral,0,0,0
+77,Female,Yardley,10AM,White,Less than a month,Friend,1,1,1
+78,Male,Sparkbrook,2PM,White,4-6 Months,Referral,1,0,0
+79,Male,Tyseley,12PM,Pakistani,1-3 Months,Friend,0,0,0
+80,Female,Acocks Green,4PM,Other,1-3 Months,Phone,1,0,0
+81,Female,Tyseley,2PM,White,4-6 Months,Friend,1,1,1
+82,Male,Balsall Heath,10AM,White,Less than a month,Referral,1,1,1
+83,Female,Tyseley,10AM,White,4-6 Months,Referral,1,1,1
+84,Male,Yardley,2PM,European,1-3 Months,Phone,1,1,1
+85,Male,Small Heath,4PM,White,Less than a month,Online,1,1,1
+86,Male,Small Heath,2PM,European,4-6 Months,Phone,1,1,1
+87,Male,Sparkhill,2PM,Black,Less than a month,Referral,0,1,0
+88,Female,Balsall Heath,2PM,Pakistani,Less than a month,Referral,1,0,0
+89,Female,Small Heath,10AM,European,1-3 Months,Friend,1,0,0
+90,Male,Tyseley,12PM,Pakistani,1-3 Months,Friend,1,0,0
+91,Male,Sparkhill,12PM,Pakistani,Less than a month,Referral,1,1,1
+92,Male,Other,12PM,White,Less than a month,Friend,1,0,0
+93,Female,Other,4PM,European,Less than a month,Referral,1,1,1
+94,Male,Sparkhill,2PM,White,Less than a month,Phone,1,0,0
+95,Male,Sutton Coldfield,12PM,Black,4-6 Months,Friend,1,1,1
+96,Female,Acocks Green,10AM,White,7-12 months,Friend,0,0,0
+97,Female,Balsall Heath,4PM,Bangladeshi,Less than a month,Other,1,0,0
+98,Male,Yardley,2PM,White,Less than a month,Referral,1,1,1
+99,Female,Small Heath,4PM,Indian,1-3 Months,Friend,1,0,0
+100,Female,Erdington,12PM,White,Less than a month,Referral,1,0,0
+101,Male,Yardley,4PM,Bangladeshi,4-6 Months,Other,1,1,1
+102,Female,Other,12PM,Bangladeshi,7-12 months,Referral,1,0,0
+103,Male,Erdington,12PM,White,1-3 Months,Themselves,1,1,1
+104,Male,Other,10AM,European,Less than a month,Friend,1,1,1
+105,Female,Other,2PM,European,1-3 Months,Friend,1,1,1
+106,Female,Digbeth,10AM,Black,1-3 Months,Referral,1,0,0
+107,Female,Balsall Heath,4PM,White,More than 1 year,Online,1,1,1
+108,Male,Sparkbrook,10AM,Pakistani,4-6 Months,Referral,0,0,0
+109,Male,Balsall Heath,12PM,Other,Less than a month,Themselves,1,1,1
+110,Male,Other,10AM,Indian,4-6 Months,Referral,1,1,1
+111,Female,Perry Barr,4PM,White,Less than a month,Themselves,1,1,1
+112,Female,Other,2PM,Indian,More than 1 year,Online,1,0,0
+113,Male,Yardley,10AM,White,4-6 Months,Referral,1,1,1
+114,Female,Stechford,12PM,Pakistani,4-6 Months,Friend,1,0,0
+115,Male,Acocks Green,2PM,White,Less than a month,Referral,1,0,0
+116,Male,Erdington,2PM,White,4-6 Months,Friend,1,0,0
+117,Male,Small Heath,4PM,Other,Less than a month,Friend,0,0,0
+118,Female,Aston,12PM,Pakistani,4-6 Months,Online,0,0,0
+119,Male,Perry Barr,10AM,European,Less than a month,Online,0,1,0
+120,Male,Other,2PM,European,More than 1 year,Friend,1,1,1
+121,Male,Acocks Green,4PM,Indian,Less than a month,Phone,1,1,1
+122,Female,Small Heath,12PM,Pakistani,1-3 Months,Themselves,1,0,0
+123,Male,Tyseley,12PM,Pakistani,Less than a month,Referral,1,0,0
+124,Male,Stechford,2PM,Bangladeshi,Less than a month,Themselves,1,1,1
+125,Male,Other,12PM,White,4-6 Months,Referral,1,0,0
+126,Male,Sparkbrook,10AM,White,Less than a month,Friend,1,0,0
+127,Female,Yardley,10AM,White,Less than a month,Referral,1,1,1
+128,Male,Small Heath,10AM,European,4-6 Months,Online,1,1,1
+129,Male,Aston,4PM,European,Less than a month,Online,0,0,0
+130,Female,Small Heath,10AM,Other,7-12 months,Online,1,0,0
+131,Male,Sparkhill,2PM,Bangladeshi,Less than a month,Online,1,0,0
+132,Male,Balsall Heath,2PM,European,4-6 Months,Phone,1,1,1
+133,Female,Sparkhill,2PM,Black,Less than a month,Other,1,0,0
+134,Male,Mosely,10AM,Indian,1-3 Months,Referral,1,1,1
+135,Male,Acocks Green,2PM,Bangladeshi,4-6 Months,Referral,1,1,1
+136,Male,Stechford,10AM,White,Less than a month,Phone,1,0,0
+137,Male,Kings Norton,4PM,Pakistani,Less than a month,Other,1,1,1
+138,Male,Aston,10AM,Black,More than 1 year,Themselves,1,1,1
+139,Male,Yardley,2PM,White,Less than a month,Referral,1,1,1
+140,Female,Sparkbrook,12PM,Black,7-12 months,Phone,1,1,0
+141,Female,Small Heath,10AM,Other,Less than a month,Friend,1,1,1
+142,Male,Erdington,10AM,Pakistani,1-3 Months,Referral,1,0,0
+143,Male,Bordesley Green,10AM,Indian,4-6 Months,Referral,1,1,1
+144,Male,Balsall Heath,4PM,Pakistani,Less than a month,Phone,1,0,0
+145,Male,Balsall Heath,10AM,Pakistani,7-12 months,Other,1,0,0
+146,Male,Sparkbrook,4PM,Bangladeshi,More than 1 year,Referral,1,1,1
+147,Male,Erdington,4PM,Indian,Less than a month,Referral,1,0,1
+148,Male,Sutton Coldfield,12PM,European,4-6 Months,Friend,1,0,0
+149,Male,Balsall Heath,4PM,Pakistani,Less than a month,Phone,1,1,1
+150,Female,Other,4PM,European,Less than a month,Friend,1,0,0
+151,Female,Sparkbrook,2PM,Bangladeshi,1-3 Months,Referral,1,1,1
+152,Male,Sparkhill,4PM,White,Less than a month,Referral,0,0,0
+153,Male,Tyseley,10AM,White,7-12 months,Friend,0,1,0
+154,Female,Stechford,12PM,Indian,Less than a month,Themselves,1,1,1
+155,Male,Acocks Green,10AM,Other,Less than a month,Phone,1,1,1
+156,Female,Digbeth,2PM,White,1-3 Months,Friend,1,1,1
+157,Male,Acocks Green,10AM,Black,4-6 Months,Referral,1,0,0
+158,Female,Tyseley,2PM,Bangladeshi,1-3 Months,Themselves,1,1,1
+159,Male,Kings Norton,10AM,Pakistani,1-3 Months,Online,1,0,0
+160,Male,Balsall Heath,4PM,Other,Less than a month,Referral,1,0,0
+161,Female,Tyseley,10AM,European,4-6 Months,Online,1,1,1
+162,Male,Erdington,12PM,White,Less than a month,Friend,1,1,1
+163,Male,Perry Barr,4PM,Indian,4-6 Months,Referral,1,0,0
+164,Female,Sparkbrook,10AM,Bangladeshi,Less than a month,Themselves,1,1,1
+165,Male,Aston,4PM,European,1-3 Months,Friend,1,0,0
+166,Male,Tyseley,10AM,White,1-3 Months,Themselves,0,1,0
+167,Male,Mosely,2PM,European,7-12 months,Friend,0,0,0
+168,Male,Acocks Green,4PM,European,1-3 Months,Online,1,0,0
+169,Male,Other,12PM,Pakistani,More than 1 year,Referral,1,1,1
+170,Male,Tyseley,10AM,Bangladeshi,More than 1 year,Phone,1,0,0
+171,Male,Sparkhill,2PM,White,Less than a month,Phone,1,0,0
+172,Male,Erdington,2PM,Pakistani,Less than a month,Other,1,1,1
+173,Male,Balsall Heath,4PM,Pakistani,More than 1 year,Referral,1,1,1
+174,Male,Stechford,10AM,Indian,4-6 Months,Referral,1,1,1
+175,Female,Acocks Green,2PM,Bangladeshi,Less than a month,Online,1,0,1
+176,Male,Sparkhill,2PM,White,1-3 Months,Friend,1,1,1
+177,Male,Balsall Heath,4PM,Indian,1-3 Months,Phone,1,0,0
+178,Male,Perry Barr,2PM,European,Less than a month,Other,1,1,1
+179,Male,Sparkhill,10AM,Pakistani,Less than a month,Phone,1,0,1
+180,Male,Bordesley Green,12PM,European,Less than a month,Referral,1,0,1
+181,Male,Kings Norton,2PM,European,Less than a month,Phone,1,0,1
+182,Male,Mosely,12PM,Pakistani,Less than a month,Other,1,0,1
+183,Male,Tyseley,10AM,Indian,4-6 Months,Phone,1,0,1
+184,Male,Sparkhill,2PM,European,1-3 Months,Phone,1,0,1
+185,Male,Small Heath,4PM,European,7-12 months,Friend,1,1,0
+186,Male,Stechford,4PM,Indian,4-6 Months,Referral,0,0,0
+187,Male,Balsall Heath,10AM,Pakistani,Less than a month,Phone,0,1,0
+188,Female,Perry Barr,12PM,Indian,More than 1 year,Referral,1,1,1
+189,Female,Sparkhill,10AM,Indian,4-6 Months,Online,1,0,1
+190,Male,Mosely,10AM,White,4-6 Months,Phone,1,0,1
+191,Male,Sparkbrook,2PM,European,Less than a month,Online,1,1,1
+192,Female,Kings Norton,12PM,European,7-12 months,Referral,1,0,1
+193,Male,Bordesley Green,2PM,Black,Less than a month,Referral,1,0,1
+194,Male,Erdington,4PM,Bangladeshi,7-12 months,Referral,1,1,1
+195,Female,Aston,4PM,Other,4-6 Months,Friend,1,0,0
+196,Female,Bordesley Green,10AM,Other,1-3 Months,Online,1,0,1
+197,Male,Aston,2PM,European,7-12 months,Referral,1,0,0
+198,Male,Perry Barr,12PM,Indian,More than 1 year,Friend,1,1,1
+199,Male,Small Heath,10AM,Bangladeshi,Less than a month,Themselves,1,0,1
+200,Female,Stechford,4PM,White,Less than a month,Online,1,0,0
+201,Male,Sparkbrook,12PM,European,Less than a month,Phone,0,1,0
+202,Female,Mosely,12PM,White,7-12 months,Referral,0,0,0
+203,Female,Mosely,2PM,European,4-6 Months,Phone,1,1,1
+204,Male,Stechford,12PM,Black,Less than a month,Online,0,0,0
+205,Male,Mosely,12PM,White,1-3 Months,Online,0,1,1
+206,Female,Sparkhill,4PM,Pakistani,1-3 Months,Online,1,1,1
+207,Female,Other,12PM,Pakistani,1-3 Months,Phone,1,1,1
+208,Female,Perry Barr,2PM,Other,Less than a month,Phone,1,1,1
+209,Male,Stechford,2PM,Black,More than 1 year,Themselves,1,1,1
+210,Male,Other,10AM,White,Less than a month,Referral,1,0,1
+211,Male,Balsall Heath,4PM,Black,4-6 Months,Other,1,1,1
+212,Male,Sparkhill,2PM,Bangladeshi,4-6 Months,Online,1,0,1
+213,Female,Balsall Heath,4PM,White,7-12 months,Friend,1,1,1
+214,Female,Sparkbrook,2PM,White,4-6 Months,Referral,1,0,1
+215,Male,Yardley,4PM,Indian,1-3 Months,Online,1,0,1
+216,Male,Bordesley Green,12PM,White,4-6 Months,Friend,1,1,1
+217,Female,Stechford,4PM,Pakistani,1-3 Months,Phone,0,1,0
+218,Male,Sparkhill,10AM,Bangladeshi,1-3 Months,Phone,1,0,1
+219,Female,Mosely,4PM,Pakistani,Less than a month,Friend,1,1,1
+220,Male,Acocks Green,4PM,Indian,7-12 months,Friend,1,1,1
+221,Female,Erdington,2PM,Black,4-6 Months,Referral,1,0,1
+222,Male,Acocks Green,10AM,Indian,7-12 months,Online,1,0,1
+223,Male,Sparkhill,2PM,White,Less than a month,Themselves,1,1,1
+224,Female,Tyseley,4PM,Other,Less than a month,Friend,0,0,0
+225,Male,Sutton Coldfield,4PM,Indian,Less than a month,Other,1,1,1
+226,Female,Balsall Heath,10AM,White,1-3 Months,Referral,1,1,1
+227,Male,Aston,4PM,White,Less than a month,Themselves,1,1,1
+228,Female,Digbeth,10AM,European,1-3 Months,Other,1,0,1
+229,Male,Balsall Heath,2PM,Pakistani,1-3 Months,Referral,1,0,0
+230,Male,Tyseley,4PM,European,Less than a month,Friend,1,0,1
+231,Female,Small Heath,2PM,Indian,1-3 Months,Referral,1,0,0
+232,Female,Stechford,12PM,Other,More than 1 year,Online,1,1,1
+233,Male,Bordesley Green,12PM,White,More than 1 year,Online,1,1,1
+234,Female,Sparkbrook,10AM,European,4-6 Months,Friend,1,0,1
+235,Male,Balsall Heath,10AM,Indian,4-6 Months,Friend,1,1,1
+236,Male,Erdington,12PM,Other,1-3 Months,Themselves,1,1,1
+237,Female,Small Heath,4PM,White,Less than a month,Friend,1,0,1
+238,Male,Aston,10AM,Pakistani,Less than a month,Themselves,0,0,0
+239,Male,Perry Barr,10AM,Other,7-12 months,Friend,1,1,1
+240,Female,Small Heath,4PM,Bangladeshi,4-6 Months,Themselves,1,0,1
+241,Male,Yardley,2PM,European,1-3 Months,Phone,1,1,1
+242,Male,Balsall Heath,10AM,European,7-12 months,Online,1,0,1
+243,Male,Stechford,12PM,European,4-6 Months,Other,1,1,1
+244,Female,Erdington,2PM,Black,Less than a month,Themselves,1,0,1
+245,Female,Balsall Heath,2PM,White,1-3 Months,Referral,1,0,1
+246,Male,Erdington,12PM,Pakistani,7-12 months,Phone,1,1,1
+247,Male,Balsall Heath,2PM,Other,1-3 Months,Phone,1,0,1
+248,Male,Sparkhill,2PM,European,More than 1 year,Friend,1,0,0
+249,Male,Kings Norton,12PM,Black,7-12 months,Friend,1,1,1
+250,Male,Erdington,12PM,European,7-12 months,Referral,1,0,0
+251,Female,Perry Barr,10AM,White,1-3 Months,Online,1,1,1
+252,Male,Balsall Heath,10AM,Pakistani,1-3 Months,Referral,1,1,0
+253,Male,Kings Norton,12PM,European,4-6 Months,Referral,0,1,0
+254,Female,Sparkbrook,12PM,Bangladeshi,4-6 Months,Referral,1,0,1
+255,Male,Stechford,10AM,White,More than 1 year,Friend,1,1,1
+256,Female,Sutton Coldfield,12PM,White,4-6 Months,Other,1,1,1
+257,Male,Stechford,10AM,Bangladeshi,7-12 months,Online,1,0,1
+258,Female,Acocks Green,2PM,White,More than 1 year,Other,1,0,0
+259,Male,Sparkbrook,4PM,European,Less than a month,Referral,1,0,0
+260,Female,Perry Barr,12PM,European,7-12 months,Online,1,0,1
+261,Male,Sparkbrook,2PM,Other,Less than a month,Referral,1,1,1
+262,Female,Sparkbrook,12PM,Bangladeshi,1-3 Months,Online,1,1,1
+263,Male,Sparkbrook,2PM,Pakistani,1-3 Months,Other,1,1,0
+264,Female,Sparkhill,10AM,Bangladeshi,7-12 months,Themselves,1,1,1
+265,Male,Yardley,4PM,Indian,Less than a month,Online,0,0,0
+266,Female,Bordesley Green,12PM,European,1-3 Months,Phone,1,1,1
+267,Male,Erdington,4PM,White,1-3 Months,Online,0,0,0
+268,Female,Acocks Green,4PM,Indian,7-12 months,Friend,1,1,1
+269,Male,Balsall Heath,10AM,White,Less than a month,Online,0,1,0
+270,Female,Stechford,10AM,White,7-12 months,Phone,1,1,1
+271,Male,Small Heath,2PM,Pakistani,4-6 Months,Online,1,1,1
+272,Female,Stechford,12PM,European,1-3 Months,Other,1,0,0
+273,Female,Yardley,2PM,White,Less than a month,Referral,1,0,1
+274,Female,Yardley,12PM,Other,Less than a month,Other,0,0,0
+275,Male,Sparkhill,12PM,White,Less than a month,Referral,1,1,1
+276,Male,Balsall Heath,2PM,White,Less than a month,Other,1,0,1
+277,Male,Sparkbrook,10AM,Black,7-12 months,Referral,0,1,0
+278,Male,Sparkbrook,2PM,Bangladeshi,4-6 Months,Phone,1,0,1
+279,Female,Balsall Heath,2PM,European,More than 1 year,Friend,1,1,1
+280,Female,Sparkbrook,10AM,Black,4-6 Months,Online,0,0,0
+281,Male,Erdington,2PM,European,More than 1 year,Friend,1,1,1
+282,Female,Small Heath,12PM,White,Less than a month,Referral,1,0,1
+283,Male,Bordesley Green,2PM,Indian,7-12 months,Phone,1,0,1
+284,Female,Bordesley Green,10AM,White,Less than a month,Referral,0,0,0
+285,Female,Kings Norton,2PM,Pakistani,Less than a month,Themselves,1,0,1
+286,Female,Sutton Coldfield,2PM,White,1-3 Months,Phone,1,1,1
+287,Male,Kings Norton,10AM,European,1-3 Months,Themselves,1,0,1
+288,Female,Tyseley,2PM,Other,7-12 months,Referral,1,0,1
+289,Female,Tyseley,2PM,European,More than 1 year,Phone,1,0,1
+290,Female,Small Heath,10AM,White,More than 1 year,Themselves,1,1,1
+291,Male,Balsall Heath,12PM,Indian,Less than a month,Themselves,1,1,1
+292,Male,Balsall Heath,2PM,White,Less than a month,Referral,1,1,1
+293,Female,Kings Norton,2PM,Bangladeshi,Less than a month,Friend,0,1,0
+294,Male,Yardley,10AM,Indian,4-6 Months,Online,1,0,1
+295,Female,Sparkbrook,10AM,Black,4-6 Months,Friend,1,0,0
+296,Female,Aston,4PM,White,1-3 Months,Phone,1,1,1
+297,Male,Sparkbrook,12PM,Bangladeshi,4-6 Months,Friend,1,0,1
+298,Male,Tyseley,12PM,Other,Less than a month,Friend,1,1,1
+299,Male,Acocks Green,12PM,Pakistani,Less than a month,Referral,0,0,0
+300,Female,Sparkbrook,4PM,Black,7-12 months,Referral,1,1,1
+301,Female,Kings Norton,4PM,European,1-3 Months,Other,1,1,1
+302,Male,Tyseley,4PM,European,Less than a month,Referral,1,0,0
+303,Male,Sparkhill,10AM,Indian,1-3 Months,Referral,1,1,1
+304,Male,Sparkbrook,4PM,Black,7-12 months,Online,1,1,1
+305,Female,Perry Barr,4PM,European,1-3 Months,Friend,0,0,0
+306,Female,Sparkhill,4PM,Other,1-3 Months,Online,1,0,1
+307,Female,Other,12PM,Black,4-6 Months,Friend,1,1,1
+308,Female,Sparkhill,2PM,White,7-12 months,Phone,1,0,1
+309,Male,Small Heath,12PM,White,1-3 Months,Phone,1,1,1
+310,Female,Other,12PM,Black,More than 1 year,Referral,1,0,1
+311,Female,Perry Barr,4PM,Indian,Less than a month,Phone,1,1,1
+312,Male,Balsall Heath,2PM,Pakistani,Less than a month,Online,1,1,1
+313,Male,Acocks Green,2PM,Other,1-3 Months,Phone,1,1,1
+314,Female,Bordesley Green,2PM,Bangladeshi,1-3 Months,Phone,1,0,1
+315,Male,Stechford,2PM,Indian,1-3 Months,Other,1,0,0
+316,Male,Acocks Green,4PM,White,1-3 Months,Friend,0,1,0
+317,Male,Other,10AM,White,4-6 Months,Online,1,1,1
+318,Male,Small Heath,10AM,Indian,Less than a month,Themselves,1,0,0
+319,Male,Small Heath,10AM,White,4-6 Months,Other,1,0,1
+320,Female,Sparkbrook,2PM,White,Less than a month,Referral,1,1,1
+321,Female,Erdington,12PM,Bangladeshi,7-12 months,Friend,1,0,1
+322,Female,Small Heath,12PM,Indian,More than 1 year,Friend,1,0,1
+323,Male,Small Heath,4PM,Pakistani,Less than a month,Phone,1,1,1
+324,Male,Acocks Green,12PM,Other,Less than a month,Other,0,0,0
+325,Female,Kings Norton,10AM,Bangladeshi,Less than a month,Themselves,1,1,1
+326,Female,Kings Norton,2PM,Black,Less than a month,Referral,1,0,1
+327,Male,Yardley,10AM,Other,4-6 Months,Referral,0,1,0
+328,Male,Sparkbrook,4PM,Pakistani,4-6 Months,Phone,1,1,1
+329,Male,Kings Norton,10AM,Pakistani,1-3 Months,Friend,1,1,1
+330,Male,Acocks Green,2PM,Bangladeshi,Less than a month,Referral,1,1,0
+331,Male,Sparkbrook,2PM,Black,Less than a month,Referral,0,0,0
+332,Male,Sparkhill,2PM,Indian,Less than a month,Referral,1,1,1
+333,Male,Bordesley Green,4PM,Black,1-3 Months,Friend,1,0,1
+334,Female,Small Heath,2PM,Indian,More than 1 year,Other,1,0,0
+335,Male,Kings Norton,4PM,Other,1-3 Months,Themselves,0,0,0
+336,Female,Yardley,10AM,Black,1-3 Months,Friend,1,0,1
+337,Female,Balsall Heath,2PM,European,Less than a month,Online,1,1,1
+338,Male,Balsall Heath,4PM,European,1-3 Months,Phone,1,1,1
+339,Female,Sparkbrook,12PM,White,More than 1 year,Phone,1,0,1
+340,Female,Small Heath,10AM,Pakistani,4-6 Months,Themselves,0,1,0
+341,Male,Balsall Heath,12PM,Pakistani,1-3 Months,Online,1,1,1
+342,Male,Other,2PM,White,7-12 months,Friend,1,1,1
+343,Male,Sparkbrook,4PM,White,7-12 months,Online,1,1,1
+344,Female,Erdington,10AM,Other,Less than a month,Friend,1,0,1
+345,Female,Stechford,2PM,European,4-6 Months,Referral,1,0,1
+346,Male,Bordesley Green,12PM,European,1-3 Months,Phone,0,0,0
+347,Male,Bordesley Green,4PM,Other,Less than a month,Phone,0,0,0
+348,Female,Small Heath,12PM,Black,1-3 Months,Referral,1,1,1
+349,Female,Digbeth,12PM,Black,4-6 Months,Friend,1,1,1
+350,Male,Stechford,4PM,Indian,Less than a month,Phone,1,1,1
+351,Male,Balsall Heath,2PM,Bangladeshi,4-6 Months,Referral,1,0,0
+352,Male,Sparkhill,10AM,Black,1-3 Months,Referral,1,1,1
+353,Male,Kings Norton,10AM,European,Less than a month,Online,0,0,0
+354,Female,Acocks Green,2PM,Black,1-3 Months,Phone,1,0,1
+355,Male,Acocks Green,4PM,Black,Less than a month,Friend,0,1,0
+356,Female,Sparkbrook,4PM,White,4-6 Months,Friend,1,1,1
+357,Male,Sparkhill,4PM,Indian,Less than a month,Phone,1,0,1
+358,Male,Sparkbrook,12PM,European,4-6 Months,Friend,1,1,1
+359,Male,Erdington,10AM,Black,4-6 Months,Referral,0,0,0
+360,Male,Stechford,2PM,Bangladeshi,Less than a month,Phone,1,1,1
+361,Male,Bordesley Green,10AM,Pakistani,4-6 Months,Phone,0,0,0
+362,Female,Balsall Heath,2PM,Black,1-3 Months,Referral,1,1,1
+363,Female,Sparkbrook,2PM,White,1-3 Months,Phone,1,1,1
+364,Male,Digbeth,2PM,Pakistani,Less than a month,Referral,1,1,1
